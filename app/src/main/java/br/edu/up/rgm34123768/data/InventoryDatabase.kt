@@ -1,0 +1,9 @@
+package br.edu.up.rgm34123768.data
+
+import androidx.room.Database
+import androidx.room.RoomDatabase
+
+@Database(entities = [Item::class], version = 1, exportSchema = false)
+abstract class InventoryDatabase : RoomDatabase() {
+
+}
