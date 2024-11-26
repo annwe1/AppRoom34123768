@@ -1,4 +1,4 @@
 AppRoom34123768
 ========================
 
-Lógica para implementção de um banco de dados local para salvar itens.
+Lógica para implementação de um banco de dados local para salvar itens.
